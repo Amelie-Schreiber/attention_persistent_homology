@@ -1,5 +1,5 @@
 # attention_persistent_homology
-Studying how well the persistent homology of collocations and keyphrases are preserved by various models. 
+Studying how well the persistent homology of collocations and keyphrases are preserved by various models. For mathematical details, start with the `gpt2-xl` notebook. 
 
 In this repo, we study how well the persistent homology of the probability distributions associated to tokens by the softmax of individual attention matrices is preserved by various models including 
 
